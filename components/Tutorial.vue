@@ -24,11 +24,11 @@
       >
         <img src="../static/logo.png" width="256" height="38" alt="" />
       </a>
-      <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
-        <h2 class="text-2xl leading-7 font-semibold">
+      <div class="mt-8 bg-gray-600 overflow-hidden shadow sm:rounded-lg p-6">
+        <h2 class="font-bold text-2xl leading-7 font-mono text-white">
           A better future happens by design. Not by choice.
         </h2>
-        <p class="mt-3 text-gray-600">
+        <p class="font-mono mt-3 text-white">
           As a digital product studio, we design, develop and launch, products
           that change the way we work, play and connect. We help individuals,
           startup, brands and corporations see what the future could be then we
@@ -38,7 +38,7 @@
       <div class="flex justify-center pt-4 space-x-2">
         <a href="https://github.com/stockpot" target="_blank"
           ><svg
-            class="w-6 h-6 text-gray-600 hover:text-gray-800"
+            class="w-6 h-6 text-gray-600 hover:text-white"
             xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink"
             aria-hidden="true"
@@ -55,7 +55,7 @@
         ></a>
         <a href="https://twitter.com/alfaxit" target="_blank"
           ><svg
-            class="w-6 h-6 text-gray-600 hover:text-gray-800"
+            class="w-6 h-6 text-gray-600 hover:text-white"
             xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink"
             aria-hidden="true"
