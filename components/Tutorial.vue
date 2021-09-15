@@ -36,7 +36,7 @@
         </p>
       </div>
       <div class="flex justify-center pt-4 space-x-2">
-        <a href="https://github.com/byronyg" target="_blank"
+        <a href="https://github.com/stockpot" target="_blank"
           ><svg
             class="w-6 h-6 text-gray-600 hover:text-gray-800"
             xmlns="http://www.w3.org/2000/svg"
